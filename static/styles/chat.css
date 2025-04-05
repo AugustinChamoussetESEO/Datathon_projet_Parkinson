@@ -52,6 +52,11 @@ body, html {
   margin: 0;
   height: 100%;
   width: 100%;
+  /*
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f5f5f5;
+  color: #1c1c1c;
+   */
 }
 
 
@@ -103,7 +108,7 @@ body .messages-content .message {
   margin: 8px 0 8px 12px;
   border-radius: 5px;
   background-color: #d6cad4;
-  color: #0a3d3d;
+  color: #1c1c1c;
   float: left;
   font-size: 13px;
   position: relative;
@@ -116,13 +121,13 @@ body .messages-content .message .timestamp {
   right: -40px;
   bottom: 0;
   font-size: 12px;
-  color: #bababa;
+  color: #1c1c1c;
 }
 body .messages-content .message.personal {
   float: right;
   margin: 8px 12px 8px 0;
   background-color: #51477b;
-  color: #d1c2c9;
+  color: #eae0ed;
 }
 body .messages-content .message.personal .timestamp {
   right: auto;
@@ -137,7 +142,7 @@ body .messages-content .message.typing::after {
   border-radius: 50%;
   width: 3px;
   height: 3px;
-  background-color: black;
+  background-color: #685c81;
   transform: translate(-50%, -50%);
   animation: ball 1.2s infinite linear;
 }
@@ -152,7 +157,7 @@ body .messages-content .message.typing span::before, body .messages-content .mes
   width: 3px;
   height: 3px;
   position: absolute;
-  background-color: white;
+  background-color: #7E72A1;
   animation: ball 1.2s infinite linear;
 }
 body .messages-content .message.typing span::before {
@@ -180,7 +185,7 @@ body .action-box-input {
   height: 20px;
   background-color: transparent;
   resize: none;
-  color: #0a3d3d;
+  color: #1c1c1c;
   margin: 10px 0;
   padding: 0 10px;
   line-height: 20px;
@@ -195,7 +200,7 @@ body .action-box-input::-webkit-input-placeholder {
 body .action-box-submit {
   width: 60px;
   height: 40px;
-  background-color: rgba(189, 195, 199, 0.2);
+  background-color: #7E72A140;
   color: white;
   cursor: pointer;
 }
