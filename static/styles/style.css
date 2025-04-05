@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
 
 :root {
-
+/*
   --violet-fonce: #6C5B7B;
   --violet-clair: #B2A4CC;
   --rose-accent: #E94E77;
   --gris-fond: #f5f5f7;
   --gris-texte: #333;
   --blanc: #ffffff;
-
+*/
 
   --violet-fonce: #684f6d;
   --violet-clair: #95b48e;
@@ -305,7 +305,7 @@ input:focus {
   width: 30%;
   height: 84%;
   margin-right: 150px;
-  background: radial-gradient(rgba(178, 164, 204, 0.2), rgba(108, 91, 123, 0.68));
+  background: radial-gradient(rgba(158, 142, 188, 0.8), rgba(108, 91, 123, 0.8));
   /*border: 3px solid var(--violet-fonce);*/
   border: 3px solid #1c1c1c;
   border-radius: 12px;
