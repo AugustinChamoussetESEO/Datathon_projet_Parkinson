@@ -1,8 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
 
 :root {
+
   --violet-fonce: #6C5B7B;
   --violet-clair: #B2A4CC;
+  --rose-accent: #E94E77;
+  --gris-fond: #f5f5f7;
+  --gris-texte: #333;
+  --blanc: #ffffff;
+
+
+  --violet-fonce: #684f6d;
+  --violet-clair: #95b48e;
   --rose-accent: #E94E77;
   --gris-fond: #f5f5f7;
   --gris-texte: #333;
@@ -51,7 +60,8 @@ a {
 .button.empty {
   background: var(--blanc);
   color: var(--rose-accent);
-  border: 1px solid var(--rose-accent);
+  /*border: 1px solid var(--rose-accent);*/
+  border: 3px solid #1c1c1c;
   text-shadow: none;
 }
 
@@ -65,7 +75,8 @@ a {
 
 .button.outline {
   background: transparent;
-  border: 1px solid rgba(233,78,119,0.4);
+  /*border: 1px solid rgba(233,78,119,0.4);*/
+  border: 3px solid #1c1c1c;
   color: var(--rose-accent);
   text-shadow: none;
 }
@@ -104,7 +115,8 @@ a {
 
 input {
   padding: 8px 10px;
-  border: 1px solid #d0d0d0;
+  /*border: 1px solid #d0d0d0;*/
+  border: 3px solid #1c1c1c;
   background-color: var(--blanc);
   font-family: inherit;
   color: var(--gris-texte);
@@ -116,7 +128,8 @@ input {
 
 input:focus {
   outline: none !important;
-  border: 1px solid #ff2449;
+  /*border: 1px solid #ff2449;*/
+  border: 3px solid #1c1c1c;
 }
 
 .student input {
@@ -171,7 +184,8 @@ input:focus {
 .video {
   background: #121212;
   border-radius: 12px;
-  border: 3px solid var(--violet-fonce);
+  /*border: 3px solid var(--violet-fonce);*/
+  border: 3px solid #1c1c1c;
   position: absolute;
   z-index: -1;
 }
@@ -292,7 +306,8 @@ input:focus {
   height: 84%;
   margin-right: 150px;
   background: radial-gradient(rgba(178, 164, 204, 0.2), rgba(108, 91, 123, 0.68));
-  border: 3px solid var(--violet-fonce);
+  /*border: 3px solid var(--violet-fonce);*/
+  border: 3px solid #1c1c1c;
   border-radius: 12px;
   min-height: 50px;
 }
@@ -340,7 +355,8 @@ input:focus {
   border: 8px solid #fff;
   border-radius: 50%;
   animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
-  border-color: #ff2449 transparent transparent transparent;
+  border-color: #1c1c1c transparent transparent transparent;
+  /*border-color: #ff2449 transparent transparent transparent;*/
 }
 
 .lds-ring div:nth-child(1) { animation-delay: -0.45s; }
@@ -398,7 +414,8 @@ input:focus {
   width: 100%;
   background-color: #d6cad4;
   margin-top: 50px;
-  border: 3px solid var(--violet-fonce);
+  /*border: 3px solid var(--violet-fonce);*/
+  border: 3px solid #1c1c1c;
   border-radius: 12px;
 }
 
