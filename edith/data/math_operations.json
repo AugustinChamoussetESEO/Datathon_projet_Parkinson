@@ -1,0 +1,4502 @@
+[
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 0 ?",
+    "La somme de 0 et 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 0, ça donne combien ?",
+    "Si vous ajoutez 0 à 0, cela donne 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 0 pour moi ?",
+    "Bien sûr! La somme de 0 et 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 0 ?",
+    "Oui, la somme de 0 et 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 0 ?",
+    "Le résultat de la multiplication de 0 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 0 ?",
+    "Oui, 0 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 0, ça fait combien ?",
+    "0 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 0 ?",
+    "Le résultat de la soustraction de 0 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 0 ?",
+    "0 moins 0 est égal à 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 1 ?",
+    "La somme de 0 et 1 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 1, ça donne combien ?",
+    "Si vous ajoutez 0 à 1, cela donne 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 1 pour moi ?",
+    "Bien sûr! La somme de 0 et 1 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 1 ?",
+    "Oui, la somme de 0 et 1 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 1 ?",
+    "Le résultat de la multiplication de 0 par 1 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 1 ?",
+    "Oui, 0 fois 1 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 1, ça fait combien ?",
+    "0 multiplié par 1 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 1 ?",
+    "Le résultat de la soustraction de 0 par 1 est -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 1 ?",
+    "0 moins 1 est égal à -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 2 ?",
+    "La somme de 0 et 2 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 2, ça donne combien ?",
+    "Si vous ajoutez 0 à 2, cela donne 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 2 pour moi ?",
+    "Bien sûr! La somme de 0 et 2 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 2 ?",
+    "Oui, la somme de 0 et 2 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 2 ?",
+    "Le résultat de la multiplication de 0 par 2 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 2 ?",
+    "Oui, 0 fois 2 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 2, ça fait combien ?",
+    "0 multiplié par 2 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 2 ?",
+    "Le résultat de la soustraction de 0 par 2 est -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 2 ?",
+    "0 moins 2 est égal à -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 3 ?",
+    "La somme de 0 et 3 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 3, ça donne combien ?",
+    "Si vous ajoutez 0 à 3, cela donne 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 3 pour moi ?",
+    "Bien sûr! La somme de 0 et 3 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 3 ?",
+    "Oui, la somme de 0 et 3 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 3 ?",
+    "Le résultat de la multiplication de 0 par 3 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 3 ?",
+    "Oui, 0 fois 3 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 3, ça fait combien ?",
+    "0 multiplié par 3 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 3 ?",
+    "Le résultat de la soustraction de 0 par 3 est -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 3 ?",
+    "0 moins 3 est égal à -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 4 ?",
+    "La somme de 0 et 4 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 4, ça donne combien ?",
+    "Si vous ajoutez 0 à 4, cela donne 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 4 pour moi ?",
+    "Bien sûr! La somme de 0 et 4 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 4 ?",
+    "Oui, la somme de 0 et 4 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 4 ?",
+    "Le résultat de la multiplication de 0 par 4 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 4 ?",
+    "Oui, 0 fois 4 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 4, ça fait combien ?",
+    "0 multiplié par 4 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 4 ?",
+    "Le résultat de la soustraction de 0 par 4 est -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 4 ?",
+    "0 moins 4 est égal à -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 5 ?",
+    "La somme de 0 et 5 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 5, ça donne combien ?",
+    "Si vous ajoutez 0 à 5, cela donne 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 5 pour moi ?",
+    "Bien sûr! La somme de 0 et 5 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 5 ?",
+    "Oui, la somme de 0 et 5 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 5 ?",
+    "Le résultat de la multiplication de 0 par 5 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 5 ?",
+    "Oui, 0 fois 5 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 5, ça fait combien ?",
+    "0 multiplié par 5 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 5 ?",
+    "Le résultat de la soustraction de 0 par 5 est -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 5 ?",
+    "0 moins 5 est égal à -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 6 ?",
+    "La somme de 0 et 6 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 6, ça donne combien ?",
+    "Si vous ajoutez 0 à 6, cela donne 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 6 pour moi ?",
+    "Bien sûr! La somme de 0 et 6 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 6 ?",
+    "Oui, la somme de 0 et 6 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 6 ?",
+    "Le résultat de la multiplication de 0 par 6 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 6 ?",
+    "Oui, 0 fois 6 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 6, ça fait combien ?",
+    "0 multiplié par 6 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 6 ?",
+    "Le résultat de la soustraction de 0 par 6 est -6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 6 ?",
+    "0 moins 6 est égal à -6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 7 ?",
+    "La somme de 0 et 7 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 7, ça donne combien ?",
+    "Si vous ajoutez 0 à 7, cela donne 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 7 pour moi ?",
+    "Bien sûr! La somme de 0 et 7 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 7 ?",
+    "Oui, la somme de 0 et 7 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 7 ?",
+    "Le résultat de la multiplication de 0 par 7 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 7 ?",
+    "Oui, 0 fois 7 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 7, ça fait combien ?",
+    "0 multiplié par 7 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 7 ?",
+    "Le résultat de la soustraction de 0 par 7 est -7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 7 ?",
+    "0 moins 7 est égal à -7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 8 ?",
+    "La somme de 0 et 8 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 8, ça donne combien ?",
+    "Si vous ajoutez 0 à 8, cela donne 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 8 pour moi ?",
+    "Bien sûr! La somme de 0 et 8 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 8 ?",
+    "Oui, la somme de 0 et 8 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 8 ?",
+    "Le résultat de la multiplication de 0 par 8 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 8 ?",
+    "Oui, 0 fois 8 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 8, ça fait combien ?",
+    "0 multiplié par 8 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 8 ?",
+    "Le résultat de la soustraction de 0 par 8 est -8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 8 ?",
+    "0 moins 8 est égal à -8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 0 et 9 ?",
+    "La somme de 0 et 9 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 0 à 9, ça donne combien ?",
+    "Si vous ajoutez 0 à 9, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 0 + 9 pour moi ?",
+    "Bien sûr! La somme de 0 et 9 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 plus 9 ?",
+    "Oui, la somme de 0 et 9 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 0 par 9 ?",
+    "Le résultat de la multiplication de 0 par 9 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 0 fois 9 ?",
+    "Oui, 0 fois 9 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "0 multiplié par 9, ça fait combien ?",
+    "0 multiplié par 9 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 0 par 9 ?",
+    "Le résultat de la soustraction de 0 par 9 est -9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 0 moins 9 ?",
+    "0 moins 9 est égal à -9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 0 ?",
+    "La somme de 1 et 0 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 0, ça donne combien ?",
+    "Si vous ajoutez 1 à 0, cela donne 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 0 pour moi ?",
+    "Bien sûr! La somme de 1 et 0 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 0 ?",
+    "Oui, la somme de 1 et 0 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 0 ?",
+    "Le résultat de la multiplication de 1 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 0 ?",
+    "Oui, 1 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 0, ça fait combien ?",
+    "1 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 0 ?",
+    "Le résultat de la soustraction de 1 par 0 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 0 ?",
+    "1 moins 0 est égal à 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 1 ?",
+    "La somme de 1 et 1 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 1, ça donne combien ?",
+    "Si vous ajoutez 1 à 1, cela donne 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 1 pour moi ?",
+    "Bien sûr! La somme de 1 et 1 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 1 ?",
+    "Oui, la somme de 1 et 1 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 1 ?",
+    "Le résultat de la multiplication de 1 par 1 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 1 ?",
+    "Oui, 1 fois 1 fait 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 1, ça fait combien ?",
+    "1 multiplié par 1 fait 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 1 ?",
+    "Le résultat de la soustraction de 1 par 1 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 1 ?",
+    "1 moins 1 est égal à 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 2 ?",
+    "La somme de 1 et 2 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 2, ça donne combien ?",
+    "Si vous ajoutez 1 à 2, cela donne 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 2 pour moi ?",
+    "Bien sûr! La somme de 1 et 2 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 2 ?",
+    "Oui, la somme de 1 et 2 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 2 ?",
+    "Le résultat de la multiplication de 1 par 2 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 2 ?",
+    "Oui, 1 fois 2 fait 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 2, ça fait combien ?",
+    "1 multiplié par 2 fait 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 2 ?",
+    "Le résultat de la soustraction de 1 par 2 est -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 2 ?",
+    "1 moins 2 est égal à -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 3 ?",
+    "La somme de 1 et 3 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 3, ça donne combien ?",
+    "Si vous ajoutez 1 à 3, cela donne 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 3 pour moi ?",
+    "Bien sûr! La somme de 1 et 3 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 3 ?",
+    "Oui, la somme de 1 et 3 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 3 ?",
+    "Le résultat de la multiplication de 1 par 3 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 3 ?",
+    "Oui, 1 fois 3 fait 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 3, ça fait combien ?",
+    "1 multiplié par 3 fait 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 3 ?",
+    "Le résultat de la soustraction de 1 par 3 est -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 3 ?",
+    "1 moins 3 est égal à -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 4 ?",
+    "La somme de 1 et 4 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 4, ça donne combien ?",
+    "Si vous ajoutez 1 à 4, cela donne 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 4 pour moi ?",
+    "Bien sûr! La somme de 1 et 4 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 4 ?",
+    "Oui, la somme de 1 et 4 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 4 ?",
+    "Le résultat de la multiplication de 1 par 4 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 4 ?",
+    "Oui, 1 fois 4 fait 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 4, ça fait combien ?",
+    "1 multiplié par 4 fait 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 4 ?",
+    "Le résultat de la soustraction de 1 par 4 est -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 4 ?",
+    "1 moins 4 est égal à -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 5 ?",
+    "La somme de 1 et 5 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 5, ça donne combien ?",
+    "Si vous ajoutez 1 à 5, cela donne 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 5 pour moi ?",
+    "Bien sûr! La somme de 1 et 5 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 5 ?",
+    "Oui, la somme de 1 et 5 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 5 ?",
+    "Le résultat de la multiplication de 1 par 5 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 5 ?",
+    "Oui, 1 fois 5 fait 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 5, ça fait combien ?",
+    "1 multiplié par 5 fait 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 5 ?",
+    "Le résultat de la soustraction de 1 par 5 est -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 5 ?",
+    "1 moins 5 est égal à -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 6 ?",
+    "La somme de 1 et 6 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 6, ça donne combien ?",
+    "Si vous ajoutez 1 à 6, cela donne 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 6 pour moi ?",
+    "Bien sûr! La somme de 1 et 6 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 6 ?",
+    "Oui, la somme de 1 et 6 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 6 ?",
+    "Le résultat de la multiplication de 1 par 6 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 6 ?",
+    "Oui, 1 fois 6 fait 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 6, ça fait combien ?",
+    "1 multiplié par 6 fait 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 6 ?",
+    "Le résultat de la soustraction de 1 par 6 est -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 6 ?",
+    "1 moins 6 est égal à -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 7 ?",
+    "La somme de 1 et 7 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 7, ça donne combien ?",
+    "Si vous ajoutez 1 à 7, cela donne 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 7 pour moi ?",
+    "Bien sûr! La somme de 1 et 7 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 7 ?",
+    "Oui, la somme de 1 et 7 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 7 ?",
+    "Le résultat de la multiplication de 1 par 7 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 7 ?",
+    "Oui, 1 fois 7 fait 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 7, ça fait combien ?",
+    "1 multiplié par 7 fait 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 7 ?",
+    "Le résultat de la soustraction de 1 par 7 est -6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 7 ?",
+    "1 moins 7 est égal à -6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 8 ?",
+    "La somme de 1 et 8 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 8, ça donne combien ?",
+    "Si vous ajoutez 1 à 8, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 8 pour moi ?",
+    "Bien sûr! La somme de 1 et 8 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 8 ?",
+    "Oui, la somme de 1 et 8 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 8 ?",
+    "Le résultat de la multiplication de 1 par 8 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 8 ?",
+    "Oui, 1 fois 8 fait 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 8, ça fait combien ?",
+    "1 multiplié par 8 fait 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 8 ?",
+    "Le résultat de la soustraction de 1 par 8 est -7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 8 ?",
+    "1 moins 8 est égal à -7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 1 et 9 ?",
+    "La somme de 1 et 9 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 1 à 9, ça donne combien ?",
+    "Si vous ajoutez 1 à 9, cela donne 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 1 + 9 pour moi ?",
+    "Bien sûr! La somme de 1 et 9 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 plus 9 ?",
+    "Oui, la somme de 1 et 9 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 1 par 9 ?",
+    "Le résultat de la multiplication de 1 par 9 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 1 fois 9 ?",
+    "Oui, 1 fois 9 fait 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "1 multiplié par 9, ça fait combien ?",
+    "1 multiplié par 9 fait 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 1 par 9 ?",
+    "Le résultat de la soustraction de 1 par 9 est -8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 1 moins 9 ?",
+    "1 moins 9 est égal à -8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 0 ?",
+    "La somme de 2 et 0 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 0, ça donne combien ?",
+    "Si vous ajoutez 2 à 0, cela donne 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 0 pour moi ?",
+    "Bien sûr! La somme de 2 et 0 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 0 ?",
+    "Oui, la somme de 2 et 0 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 0 ?",
+    "Le résultat de la multiplication de 2 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 0 ?",
+    "Oui, 2 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 0, ça fait combien ?",
+    "2 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 0 ?",
+    "Le résultat de la soustraction de 2 par 0 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 0 ?",
+    "2 moins 0 est égal à 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 1 ?",
+    "La somme de 2 et 1 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 1, ça donne combien ?",
+    "Si vous ajoutez 2 à 1, cela donne 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 1 pour moi ?",
+    "Bien sûr! La somme de 2 et 1 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 1 ?",
+    "Oui, la somme de 2 et 1 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 1 ?",
+    "Le résultat de la multiplication de 2 par 1 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 1 ?",
+    "Oui, 2 fois 1 fait 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 1, ça fait combien ?",
+    "2 multiplié par 1 fait 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 1 ?",
+    "Le résultat de la soustraction de 2 par 1 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 1 ?",
+    "2 moins 1 est égal à 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 2 ?",
+    "La somme de 2 et 2 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 2, ça donne combien ?",
+    "Si vous ajoutez 2 à 2, cela donne 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 2 pour moi ?",
+    "Bien sûr! La somme de 2 et 2 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 2 ?",
+    "Oui, la somme de 2 et 2 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 2 ?",
+    "Le résultat de la multiplication de 2 par 2 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 2 ?",
+    "Oui, 2 fois 2 fait 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 2, ça fait combien ?",
+    "2 multiplié par 2 fait 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 2 ?",
+    "Le résultat de la soustraction de 2 par 2 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 2 ?",
+    "2 moins 2 est égal à 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 3 ?",
+    "La somme de 2 et 3 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 3, ça donne combien ?",
+    "Si vous ajoutez 2 à 3, cela donne 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 3 pour moi ?",
+    "Bien sûr! La somme de 2 et 3 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 3 ?",
+    "Oui, la somme de 2 et 3 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 3 ?",
+    "Le résultat de la multiplication de 2 par 3 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 3 ?",
+    "Oui, 2 fois 3 fait 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 3, ça fait combien ?",
+    "2 multiplié par 3 fait 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 3 ?",
+    "Le résultat de la soustraction de 2 par 3 est -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 3 ?",
+    "2 moins 3 est égal à -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 4 ?",
+    "La somme de 2 et 4 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 4, ça donne combien ?",
+    "Si vous ajoutez 2 à 4, cela donne 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 4 pour moi ?",
+    "Bien sûr! La somme de 2 et 4 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 4 ?",
+    "Oui, la somme de 2 et 4 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 4 ?",
+    "Le résultat de la multiplication de 2 par 4 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 4 ?",
+    "Oui, 2 fois 4 fait 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 4, ça fait combien ?",
+    "2 multiplié par 4 fait 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 4 ?",
+    "Le résultat de la soustraction de 2 par 4 est -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 4 ?",
+    "2 moins 4 est égal à -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 5 ?",
+    "La somme de 2 et 5 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 5, ça donne combien ?",
+    "Si vous ajoutez 2 à 5, cela donne 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 5 pour moi ?",
+    "Bien sûr! La somme de 2 et 5 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 5 ?",
+    "Oui, la somme de 2 et 5 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 5 ?",
+    "Le résultat de la multiplication de 2 par 5 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 5 ?",
+    "Oui, 2 fois 5 fait 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 5, ça fait combien ?",
+    "2 multiplié par 5 fait 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 5 ?",
+    "Le résultat de la soustraction de 2 par 5 est -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 5 ?",
+    "2 moins 5 est égal à -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 6 ?",
+    "La somme de 2 et 6 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 6, ça donne combien ?",
+    "Si vous ajoutez 2 à 6, cela donne 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 6 pour moi ?",
+    "Bien sûr! La somme de 2 et 6 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 6 ?",
+    "Oui, la somme de 2 et 6 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 6 ?",
+    "Le résultat de la multiplication de 2 par 6 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 6 ?",
+    "Oui, 2 fois 6 fait 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 6, ça fait combien ?",
+    "2 multiplié par 6 fait 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 6 ?",
+    "Le résultat de la soustraction de 2 par 6 est -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 6 ?",
+    "2 moins 6 est égal à -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 7 ?",
+    "La somme de 2 et 7 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 7, ça donne combien ?",
+    "Si vous ajoutez 2 à 7, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 7 pour moi ?",
+    "Bien sûr! La somme de 2 et 7 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 7 ?",
+    "Oui, la somme de 2 et 7 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 7 ?",
+    "Le résultat de la multiplication de 2 par 7 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 7 ?",
+    "Oui, 2 fois 7 fait 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 7, ça fait combien ?",
+    "2 multiplié par 7 fait 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 7 ?",
+    "Le résultat de la soustraction de 2 par 7 est -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 7 ?",
+    "2 moins 7 est égal à -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 8 ?",
+    "La somme de 2 et 8 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 8, ça donne combien ?",
+    "Si vous ajoutez 2 à 8, cela donne 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 8 pour moi ?",
+    "Bien sûr! La somme de 2 et 8 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 8 ?",
+    "Oui, la somme de 2 et 8 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 8 ?",
+    "Le résultat de la multiplication de 2 par 8 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 8 ?",
+    "Oui, 2 fois 8 fait 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 8, ça fait combien ?",
+    "2 multiplié par 8 fait 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 8 ?",
+    "Le résultat de la soustraction de 2 par 8 est -6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 8 ?",
+    "2 moins 8 est égal à -6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 2 et 9 ?",
+    "La somme de 2 et 9 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 2 à 9, ça donne combien ?",
+    "Si vous ajoutez 2 à 9, cela donne 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 2 + 9 pour moi ?",
+    "Bien sûr! La somme de 2 et 9 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 plus 9 ?",
+    "Oui, la somme de 2 et 9 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 2 par 9 ?",
+    "Le résultat de la multiplication de 2 par 9 est 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 2 fois 9 ?",
+    "Oui, 2 fois 9 fait 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "2 multiplié par 9, ça fait combien ?",
+    "2 multiplié par 9 fait 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 2 par 9 ?",
+    "Le résultat de la soustraction de 2 par 9 est -7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 2 moins 9 ?",
+    "2 moins 9 est égal à -7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 0 ?",
+    "La somme de 3 et 0 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 0, ça donne combien ?",
+    "Si vous ajoutez 3 à 0, cela donne 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 0 pour moi ?",
+    "Bien sûr! La somme de 3 et 0 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 0 ?",
+    "Oui, la somme de 3 et 0 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 0 ?",
+    "Le résultat de la multiplication de 3 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 0 ?",
+    "Oui, 3 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 0, ça fait combien ?",
+    "3 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 0 ?",
+    "Le résultat de la soustraction de 3 par 0 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 0 ?",
+    "3 moins 0 est égal à 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 1 ?",
+    "La somme de 3 et 1 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 1, ça donne combien ?",
+    "Si vous ajoutez 3 à 1, cela donne 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 1 pour moi ?",
+    "Bien sûr! La somme de 3 et 1 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 1 ?",
+    "Oui, la somme de 3 et 1 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 1 ?",
+    "Le résultat de la multiplication de 3 par 1 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 1 ?",
+    "Oui, 3 fois 1 fait 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 1, ça fait combien ?",
+    "3 multiplié par 1 fait 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 1 ?",
+    "Le résultat de la soustraction de 3 par 1 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 1 ?",
+    "3 moins 1 est égal à 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 2 ?",
+    "La somme de 3 et 2 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 2, ça donne combien ?",
+    "Si vous ajoutez 3 à 2, cela donne 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 2 pour moi ?",
+    "Bien sûr! La somme de 3 et 2 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 2 ?",
+    "Oui, la somme de 3 et 2 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 2 ?",
+    "Le résultat de la multiplication de 3 par 2 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 2 ?",
+    "Oui, 3 fois 2 fait 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 2, ça fait combien ?",
+    "3 multiplié par 2 fait 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 2 ?",
+    "Le résultat de la soustraction de 3 par 2 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 2 ?",
+    "3 moins 2 est égal à 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 3 ?",
+    "La somme de 3 et 3 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 3, ça donne combien ?",
+    "Si vous ajoutez 3 à 3, cela donne 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 3 pour moi ?",
+    "Bien sûr! La somme de 3 et 3 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 3 ?",
+    "Oui, la somme de 3 et 3 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 3 ?",
+    "Le résultat de la multiplication de 3 par 3 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 3 ?",
+    "Oui, 3 fois 3 fait 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 3, ça fait combien ?",
+    "3 multiplié par 3 fait 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 3 ?",
+    "Le résultat de la soustraction de 3 par 3 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 3 ?",
+    "3 moins 3 est égal à 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 4 ?",
+    "La somme de 3 et 4 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 4, ça donne combien ?",
+    "Si vous ajoutez 3 à 4, cela donne 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 4 pour moi ?",
+    "Bien sûr! La somme de 3 et 4 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 4 ?",
+    "Oui, la somme de 3 et 4 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 4 ?",
+    "Le résultat de la multiplication de 3 par 4 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 4 ?",
+    "Oui, 3 fois 4 fait 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 4, ça fait combien ?",
+    "3 multiplié par 4 fait 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 4 ?",
+    "Le résultat de la soustraction de 3 par 4 est -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 4 ?",
+    "3 moins 4 est égal à -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 5 ?",
+    "La somme de 3 et 5 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 5, ça donne combien ?",
+    "Si vous ajoutez 3 à 5, cela donne 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 5 pour moi ?",
+    "Bien sûr! La somme de 3 et 5 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 5 ?",
+    "Oui, la somme de 3 et 5 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 5 ?",
+    "Le résultat de la multiplication de 3 par 5 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 5 ?",
+    "Oui, 3 fois 5 fait 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 5, ça fait combien ?",
+    "3 multiplié par 5 fait 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 5 ?",
+    "Le résultat de la soustraction de 3 par 5 est -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 5 ?",
+    "3 moins 5 est égal à -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 6 ?",
+    "La somme de 3 et 6 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 6, ça donne combien ?",
+    "Si vous ajoutez 3 à 6, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 6 pour moi ?",
+    "Bien sûr! La somme de 3 et 6 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 6 ?",
+    "Oui, la somme de 3 et 6 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 6 ?",
+    "Le résultat de la multiplication de 3 par 6 est 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 6 ?",
+    "Oui, 3 fois 6 fait 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 6, ça fait combien ?",
+    "3 multiplié par 6 fait 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 6 ?",
+    "Le résultat de la soustraction de 3 par 6 est -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 6 ?",
+    "3 moins 6 est égal à -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 7 ?",
+    "La somme de 3 et 7 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 7, ça donne combien ?",
+    "Si vous ajoutez 3 à 7, cela donne 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 7 pour moi ?",
+    "Bien sûr! La somme de 3 et 7 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 7 ?",
+    "Oui, la somme de 3 et 7 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 7 ?",
+    "Le résultat de la multiplication de 3 par 7 est 21."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 7 ?",
+    "Oui, 3 fois 7 fait 21."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 7, ça fait combien ?",
+    "3 multiplié par 7 fait 21."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 7 ?",
+    "Le résultat de la soustraction de 3 par 7 est -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 7 ?",
+    "3 moins 7 est égal à -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 8 ?",
+    "La somme de 3 et 8 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 8, ça donne combien ?",
+    "Si vous ajoutez 3 à 8, cela donne 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 8 pour moi ?",
+    "Bien sûr! La somme de 3 et 8 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 8 ?",
+    "Oui, la somme de 3 et 8 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 8 ?",
+    "Le résultat de la multiplication de 3 par 8 est 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 8 ?",
+    "Oui, 3 fois 8 fait 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 8, ça fait combien ?",
+    "3 multiplié par 8 fait 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 8 ?",
+    "Le résultat de la soustraction de 3 par 8 est -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 8 ?",
+    "3 moins 8 est égal à -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 3 et 9 ?",
+    "La somme de 3 et 9 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 3 à 9, ça donne combien ?",
+    "Si vous ajoutez 3 à 9, cela donne 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 3 + 9 pour moi ?",
+    "Bien sûr! La somme de 3 et 9 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 plus 9 ?",
+    "Oui, la somme de 3 et 9 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 3 par 9 ?",
+    "Le résultat de la multiplication de 3 par 9 est 27."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 3 fois 9 ?",
+    "Oui, 3 fois 9 fait 27."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "3 multiplié par 9, ça fait combien ?",
+    "3 multiplié par 9 fait 27."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 3 par 9 ?",
+    "Le résultat de la soustraction de 3 par 9 est -6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 3 moins 9 ?",
+    "3 moins 9 est égal à -6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 0 ?",
+    "La somme de 4 et 0 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 0, ça donne combien ?",
+    "Si vous ajoutez 4 à 0, cela donne 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 0 pour moi ?",
+    "Bien sûr! La somme de 4 et 0 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 0 ?",
+    "Oui, la somme de 4 et 0 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 0 ?",
+    "Le résultat de la multiplication de 4 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 0 ?",
+    "Oui, 4 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 0, ça fait combien ?",
+    "4 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 0 ?",
+    "Le résultat de la soustraction de 4 par 0 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 0 ?",
+    "4 moins 0 est égal à 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 1 ?",
+    "La somme de 4 et 1 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 1, ça donne combien ?",
+    "Si vous ajoutez 4 à 1, cela donne 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 1 pour moi ?",
+    "Bien sûr! La somme de 4 et 1 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 1 ?",
+    "Oui, la somme de 4 et 1 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 1 ?",
+    "Le résultat de la multiplication de 4 par 1 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 1 ?",
+    "Oui, 4 fois 1 fait 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 1, ça fait combien ?",
+    "4 multiplié par 1 fait 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 1 ?",
+    "Le résultat de la soustraction de 4 par 1 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 1 ?",
+    "4 moins 1 est égal à 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 2 ?",
+    "La somme de 4 et 2 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 2, ça donne combien ?",
+    "Si vous ajoutez 4 à 2, cela donne 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 2 pour moi ?",
+    "Bien sûr! La somme de 4 et 2 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 2 ?",
+    "Oui, la somme de 4 et 2 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 2 ?",
+    "Le résultat de la multiplication de 4 par 2 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 2 ?",
+    "Oui, 4 fois 2 fait 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 2, ça fait combien ?",
+    "4 multiplié par 2 fait 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 2 ?",
+    "Le résultat de la soustraction de 4 par 2 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 2 ?",
+    "4 moins 2 est égal à 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 3 ?",
+    "La somme de 4 et 3 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 3, ça donne combien ?",
+    "Si vous ajoutez 4 à 3, cela donne 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 3 pour moi ?",
+    "Bien sûr! La somme de 4 et 3 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 3 ?",
+    "Oui, la somme de 4 et 3 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 3 ?",
+    "Le résultat de la multiplication de 4 par 3 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 3 ?",
+    "Oui, 4 fois 3 fait 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 3, ça fait combien ?",
+    "4 multiplié par 3 fait 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 3 ?",
+    "Le résultat de la soustraction de 4 par 3 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 3 ?",
+    "4 moins 3 est égal à 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 4 ?",
+    "La somme de 4 et 4 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 4, ça donne combien ?",
+    "Si vous ajoutez 4 à 4, cela donne 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 4 pour moi ?",
+    "Bien sûr! La somme de 4 et 4 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 4 ?",
+    "Oui, la somme de 4 et 4 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 4 ?",
+    "Le résultat de la multiplication de 4 par 4 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 4 ?",
+    "Oui, 4 fois 4 fait 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 4, ça fait combien ?",
+    "4 multiplié par 4 fait 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 4 ?",
+    "Le résultat de la soustraction de 4 par 4 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 4 ?",
+    "4 moins 4 est égal à 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 5 ?",
+    "La somme de 4 et 5 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 5, ça donne combien ?",
+    "Si vous ajoutez 4 à 5, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 5 pour moi ?",
+    "Bien sûr! La somme de 4 et 5 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 5 ?",
+    "Oui, la somme de 4 et 5 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 5 ?",
+    "Le résultat de la multiplication de 4 par 5 est 20."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 5 ?",
+    "Oui, 4 fois 5 fait 20."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 5, ça fait combien ?",
+    "4 multiplié par 5 fait 20."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 5 ?",
+    "Le résultat de la soustraction de 4 par 5 est -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 5 ?",
+    "4 moins 5 est égal à -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 6 ?",
+    "La somme de 4 et 6 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 6, ça donne combien ?",
+    "Si vous ajoutez 4 à 6, cela donne 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 6 pour moi ?",
+    "Bien sûr! La somme de 4 et 6 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 6 ?",
+    "Oui, la somme de 4 et 6 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 6 ?",
+    "Le résultat de la multiplication de 4 par 6 est 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 6 ?",
+    "Oui, 4 fois 6 fait 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 6, ça fait combien ?",
+    "4 multiplié par 6 fait 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 6 ?",
+    "Le résultat de la soustraction de 4 par 6 est -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 6 ?",
+    "4 moins 6 est égal à -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 7 ?",
+    "La somme de 4 et 7 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 7, ça donne combien ?",
+    "Si vous ajoutez 4 à 7, cela donne 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 7 pour moi ?",
+    "Bien sûr! La somme de 4 et 7 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 7 ?",
+    "Oui, la somme de 4 et 7 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 7 ?",
+    "Le résultat de la multiplication de 4 par 7 est 28."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 7 ?",
+    "Oui, 4 fois 7 fait 28."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 7, ça fait combien ?",
+    "4 multiplié par 7 fait 28."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 7 ?",
+    "Le résultat de la soustraction de 4 par 7 est -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 7 ?",
+    "4 moins 7 est égal à -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 8 ?",
+    "La somme de 4 et 8 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 8, ça donne combien ?",
+    "Si vous ajoutez 4 à 8, cela donne 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 8 pour moi ?",
+    "Bien sûr! La somme de 4 et 8 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 8 ?",
+    "Oui, la somme de 4 et 8 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 8 ?",
+    "Le résultat de la multiplication de 4 par 8 est 32."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 8 ?",
+    "Oui, 4 fois 8 fait 32."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 8, ça fait combien ?",
+    "4 multiplié par 8 fait 32."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 8 ?",
+    "Le résultat de la soustraction de 4 par 8 est -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 8 ?",
+    "4 moins 8 est égal à -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 4 et 9 ?",
+    "La somme de 4 et 9 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 4 à 9, ça donne combien ?",
+    "Si vous ajoutez 4 à 9, cela donne 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 4 + 9 pour moi ?",
+    "Bien sûr! La somme de 4 et 9 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 plus 9 ?",
+    "Oui, la somme de 4 et 9 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 4 par 9 ?",
+    "Le résultat de la multiplication de 4 par 9 est 36."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 4 fois 9 ?",
+    "Oui, 4 fois 9 fait 36."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "4 multiplié par 9, ça fait combien ?",
+    "4 multiplié par 9 fait 36."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 4 par 9 ?",
+    "Le résultat de la soustraction de 4 par 9 est -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 4 moins 9 ?",
+    "4 moins 9 est égal à -5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 0 ?",
+    "La somme de 5 et 0 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 0, ça donne combien ?",
+    "Si vous ajoutez 5 à 0, cela donne 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 0 pour moi ?",
+    "Bien sûr! La somme de 5 et 0 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 0 ?",
+    "Oui, la somme de 5 et 0 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 0 ?",
+    "Le résultat de la multiplication de 5 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 0 ?",
+    "Oui, 5 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 0, ça fait combien ?",
+    "5 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 0 ?",
+    "Le résultat de la soustraction de 5 par 0 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 0 ?",
+    "5 moins 0 est égal à 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 1 ?",
+    "La somme de 5 et 1 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 1, ça donne combien ?",
+    "Si vous ajoutez 5 à 1, cela donne 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 1 pour moi ?",
+    "Bien sûr! La somme de 5 et 1 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 1 ?",
+    "Oui, la somme de 5 et 1 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 1 ?",
+    "Le résultat de la multiplication de 5 par 1 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 1 ?",
+    "Oui, 5 fois 1 fait 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 1, ça fait combien ?",
+    "5 multiplié par 1 fait 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 1 ?",
+    "Le résultat de la soustraction de 5 par 1 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 1 ?",
+    "5 moins 1 est égal à 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 2 ?",
+    "La somme de 5 et 2 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 2, ça donne combien ?",
+    "Si vous ajoutez 5 à 2, cela donne 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 2 pour moi ?",
+    "Bien sûr! La somme de 5 et 2 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 2 ?",
+    "Oui, la somme de 5 et 2 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 2 ?",
+    "Le résultat de la multiplication de 5 par 2 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 2 ?",
+    "Oui, 5 fois 2 fait 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 2, ça fait combien ?",
+    "5 multiplié par 2 fait 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 2 ?",
+    "Le résultat de la soustraction de 5 par 2 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 2 ?",
+    "5 moins 2 est égal à 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 3 ?",
+    "La somme de 5 et 3 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 3, ça donne combien ?",
+    "Si vous ajoutez 5 à 3, cela donne 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 3 pour moi ?",
+    "Bien sûr! La somme de 5 et 3 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 3 ?",
+    "Oui, la somme de 5 et 3 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 3 ?",
+    "Le résultat de la multiplication de 5 par 3 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 3 ?",
+    "Oui, 5 fois 3 fait 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 3, ça fait combien ?",
+    "5 multiplié par 3 fait 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 3 ?",
+    "Le résultat de la soustraction de 5 par 3 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 3 ?",
+    "5 moins 3 est égal à 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 4 ?",
+    "La somme de 5 et 4 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 4, ça donne combien ?",
+    "Si vous ajoutez 5 à 4, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 4 pour moi ?",
+    "Bien sûr! La somme de 5 et 4 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 4 ?",
+    "Oui, la somme de 5 et 4 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 4 ?",
+    "Le résultat de la multiplication de 5 par 4 est 20."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 4 ?",
+    "Oui, 5 fois 4 fait 20."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 4, ça fait combien ?",
+    "5 multiplié par 4 fait 20."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 4 ?",
+    "Le résultat de la soustraction de 5 par 4 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 4 ?",
+    "5 moins 4 est égal à 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 5 ?",
+    "La somme de 5 et 5 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 5, ça donne combien ?",
+    "Si vous ajoutez 5 à 5, cela donne 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 5 pour moi ?",
+    "Bien sûr! La somme de 5 et 5 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 5 ?",
+    "Oui, la somme de 5 et 5 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 5 ?",
+    "Le résultat de la multiplication de 5 par 5 est 25."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 5 ?",
+    "Oui, 5 fois 5 fait 25."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 5, ça fait combien ?",
+    "5 multiplié par 5 fait 25."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 5 ?",
+    "Le résultat de la soustraction de 5 par 5 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 5 ?",
+    "5 moins 5 est égal à 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 6 ?",
+    "La somme de 5 et 6 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 6, ça donne combien ?",
+    "Si vous ajoutez 5 à 6, cela donne 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 6 pour moi ?",
+    "Bien sûr! La somme de 5 et 6 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 6 ?",
+    "Oui, la somme de 5 et 6 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 6 ?",
+    "Le résultat de la multiplication de 5 par 6 est 30."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 6 ?",
+    "Oui, 5 fois 6 fait 30."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 6, ça fait combien ?",
+    "5 multiplié par 6 fait 30."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 6 ?",
+    "Le résultat de la soustraction de 5 par 6 est -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 6 ?",
+    "5 moins 6 est égal à -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 7 ?",
+    "La somme de 5 et 7 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 7, ça donne combien ?",
+    "Si vous ajoutez 5 à 7, cela donne 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 7 pour moi ?",
+    "Bien sûr! La somme de 5 et 7 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 7 ?",
+    "Oui, la somme de 5 et 7 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 7 ?",
+    "Le résultat de la multiplication de 5 par 7 est 35."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 7 ?",
+    "Oui, 5 fois 7 fait 35."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 7, ça fait combien ?",
+    "5 multiplié par 7 fait 35."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 7 ?",
+    "Le résultat de la soustraction de 5 par 7 est -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 7 ?",
+    "5 moins 7 est égal à -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 8 ?",
+    "La somme de 5 et 8 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 8, ça donne combien ?",
+    "Si vous ajoutez 5 à 8, cela donne 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 8 pour moi ?",
+    "Bien sûr! La somme de 5 et 8 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 8 ?",
+    "Oui, la somme de 5 et 8 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 8 ?",
+    "Le résultat de la multiplication de 5 par 8 est 40."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 8 ?",
+    "Oui, 5 fois 8 fait 40."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 8, ça fait combien ?",
+    "5 multiplié par 8 fait 40."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 8 ?",
+    "Le résultat de la soustraction de 5 par 8 est -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 8 ?",
+    "5 moins 8 est égal à -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 5 et 9 ?",
+    "La somme de 5 et 9 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 5 à 9, ça donne combien ?",
+    "Si vous ajoutez 5 à 9, cela donne 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 5 + 9 pour moi ?",
+    "Bien sûr! La somme de 5 et 9 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 plus 9 ?",
+    "Oui, la somme de 5 et 9 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 5 par 9 ?",
+    "Le résultat de la multiplication de 5 par 9 est 45."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 5 fois 9 ?",
+    "Oui, 5 fois 9 fait 45."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "5 multiplié par 9, ça fait combien ?",
+    "5 multiplié par 9 fait 45."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 5 par 9 ?",
+    "Le résultat de la soustraction de 5 par 9 est -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 5 moins 9 ?",
+    "5 moins 9 est égal à -4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 0 ?",
+    "La somme de 6 et 0 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 0, ça donne combien ?",
+    "Si vous ajoutez 6 à 0, cela donne 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 0 pour moi ?",
+    "Bien sûr! La somme de 6 et 0 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 0 ?",
+    "Oui, la somme de 6 et 0 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 0 ?",
+    "Le résultat de la multiplication de 6 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 0 ?",
+    "Oui, 6 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 0, ça fait combien ?",
+    "6 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 0 ?",
+    "Le résultat de la soustraction de 6 par 0 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 0 ?",
+    "6 moins 0 est égal à 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 1 ?",
+    "La somme de 6 et 1 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 1, ça donne combien ?",
+    "Si vous ajoutez 6 à 1, cela donne 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 1 pour moi ?",
+    "Bien sûr! La somme de 6 et 1 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 1 ?",
+    "Oui, la somme de 6 et 1 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 1 ?",
+    "Le résultat de la multiplication de 6 par 1 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 1 ?",
+    "Oui, 6 fois 1 fait 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 1, ça fait combien ?",
+    "6 multiplié par 1 fait 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 1 ?",
+    "Le résultat de la soustraction de 6 par 1 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 1 ?",
+    "6 moins 1 est égal à 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 2 ?",
+    "La somme de 6 et 2 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 2, ça donne combien ?",
+    "Si vous ajoutez 6 à 2, cela donne 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 2 pour moi ?",
+    "Bien sûr! La somme de 6 et 2 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 2 ?",
+    "Oui, la somme de 6 et 2 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 2 ?",
+    "Le résultat de la multiplication de 6 par 2 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 2 ?",
+    "Oui, 6 fois 2 fait 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 2, ça fait combien ?",
+    "6 multiplié par 2 fait 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 2 ?",
+    "Le résultat de la soustraction de 6 par 2 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 2 ?",
+    "6 moins 2 est égal à 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 3 ?",
+    "La somme de 6 et 3 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 3, ça donne combien ?",
+    "Si vous ajoutez 6 à 3, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 3 pour moi ?",
+    "Bien sûr! La somme de 6 et 3 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 3 ?",
+    "Oui, la somme de 6 et 3 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 3 ?",
+    "Le résultat de la multiplication de 6 par 3 est 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 3 ?",
+    "Oui, 6 fois 3 fait 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 3, ça fait combien ?",
+    "6 multiplié par 3 fait 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 3 ?",
+    "Le résultat de la soustraction de 6 par 3 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 3 ?",
+    "6 moins 3 est égal à 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 4 ?",
+    "La somme de 6 et 4 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 4, ça donne combien ?",
+    "Si vous ajoutez 6 à 4, cela donne 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 4 pour moi ?",
+    "Bien sûr! La somme de 6 et 4 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 4 ?",
+    "Oui, la somme de 6 et 4 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 4 ?",
+    "Le résultat de la multiplication de 6 par 4 est 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 4 ?",
+    "Oui, 6 fois 4 fait 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 4, ça fait combien ?",
+    "6 multiplié par 4 fait 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 4 ?",
+    "Le résultat de la soustraction de 6 par 4 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 4 ?",
+    "6 moins 4 est égal à 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 5 ?",
+    "La somme de 6 et 5 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 5, ça donne combien ?",
+    "Si vous ajoutez 6 à 5, cela donne 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 5 pour moi ?",
+    "Bien sûr! La somme de 6 et 5 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 5 ?",
+    "Oui, la somme de 6 et 5 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 5 ?",
+    "Le résultat de la multiplication de 6 par 5 est 30."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 5 ?",
+    "Oui, 6 fois 5 fait 30."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 5, ça fait combien ?",
+    "6 multiplié par 5 fait 30."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 5 ?",
+    "Le résultat de la soustraction de 6 par 5 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 5 ?",
+    "6 moins 5 est égal à 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 6 ?",
+    "La somme de 6 et 6 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 6, ça donne combien ?",
+    "Si vous ajoutez 6 à 6, cela donne 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 6 pour moi ?",
+    "Bien sûr! La somme de 6 et 6 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 6 ?",
+    "Oui, la somme de 6 et 6 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 6 ?",
+    "Le résultat de la multiplication de 6 par 6 est 36."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 6 ?",
+    "Oui, 6 fois 6 fait 36."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 6, ça fait combien ?",
+    "6 multiplié par 6 fait 36."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 6 ?",
+    "Le résultat de la soustraction de 6 par 6 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 6 ?",
+    "6 moins 6 est égal à 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 7 ?",
+    "La somme de 6 et 7 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 7, ça donne combien ?",
+    "Si vous ajoutez 6 à 7, cela donne 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 7 pour moi ?",
+    "Bien sûr! La somme de 6 et 7 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 7 ?",
+    "Oui, la somme de 6 et 7 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 7 ?",
+    "Le résultat de la multiplication de 6 par 7 est 42."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 7 ?",
+    "Oui, 6 fois 7 fait 42."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 7, ça fait combien ?",
+    "6 multiplié par 7 fait 42."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 7 ?",
+    "Le résultat de la soustraction de 6 par 7 est -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 7 ?",
+    "6 moins 7 est égal à -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 8 ?",
+    "La somme de 6 et 8 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 8, ça donne combien ?",
+    "Si vous ajoutez 6 à 8, cela donne 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 8 pour moi ?",
+    "Bien sûr! La somme de 6 et 8 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 8 ?",
+    "Oui, la somme de 6 et 8 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 8 ?",
+    "Le résultat de la multiplication de 6 par 8 est 48."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 8 ?",
+    "Oui, 6 fois 8 fait 48."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 8, ça fait combien ?",
+    "6 multiplié par 8 fait 48."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 8 ?",
+    "Le résultat de la soustraction de 6 par 8 est -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 8 ?",
+    "6 moins 8 est égal à -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 6 et 9 ?",
+    "La somme de 6 et 9 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 6 à 9, ça donne combien ?",
+    "Si vous ajoutez 6 à 9, cela donne 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 6 + 9 pour moi ?",
+    "Bien sûr! La somme de 6 et 9 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 plus 9 ?",
+    "Oui, la somme de 6 et 9 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 6 par 9 ?",
+    "Le résultat de la multiplication de 6 par 9 est 54."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 6 fois 9 ?",
+    "Oui, 6 fois 9 fait 54."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "6 multiplié par 9, ça fait combien ?",
+    "6 multiplié par 9 fait 54."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 6 par 9 ?",
+    "Le résultat de la soustraction de 6 par 9 est -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 6 moins 9 ?",
+    "6 moins 9 est égal à -3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 0 ?",
+    "La somme de 7 et 0 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 0, ça donne combien ?",
+    "Si vous ajoutez 7 à 0, cela donne 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 0 pour moi ?",
+    "Bien sûr! La somme de 7 et 0 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 0 ?",
+    "Oui, la somme de 7 et 0 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 0 ?",
+    "Le résultat de la multiplication de 7 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 0 ?",
+    "Oui, 7 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 0, ça fait combien ?",
+    "7 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 0 ?",
+    "Le résultat de la soustraction de 7 par 0 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 0 ?",
+    "7 moins 0 est égal à 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 1 ?",
+    "La somme de 7 et 1 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 1, ça donne combien ?",
+    "Si vous ajoutez 7 à 1, cela donne 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 1 pour moi ?",
+    "Bien sûr! La somme de 7 et 1 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 1 ?",
+    "Oui, la somme de 7 et 1 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 1 ?",
+    "Le résultat de la multiplication de 7 par 1 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 1 ?",
+    "Oui, 7 fois 1 fait 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 1, ça fait combien ?",
+    "7 multiplié par 1 fait 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 1 ?",
+    "Le résultat de la soustraction de 7 par 1 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 1 ?",
+    "7 moins 1 est égal à 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 2 ?",
+    "La somme de 7 et 2 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 2, ça donne combien ?",
+    "Si vous ajoutez 7 à 2, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 2 pour moi ?",
+    "Bien sûr! La somme de 7 et 2 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 2 ?",
+    "Oui, la somme de 7 et 2 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 2 ?",
+    "Le résultat de la multiplication de 7 par 2 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 2 ?",
+    "Oui, 7 fois 2 fait 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 2, ça fait combien ?",
+    "7 multiplié par 2 fait 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 2 ?",
+    "Le résultat de la soustraction de 7 par 2 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 2 ?",
+    "7 moins 2 est égal à 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 3 ?",
+    "La somme de 7 et 3 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 3, ça donne combien ?",
+    "Si vous ajoutez 7 à 3, cela donne 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 3 pour moi ?",
+    "Bien sûr! La somme de 7 et 3 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 3 ?",
+    "Oui, la somme de 7 et 3 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 3 ?",
+    "Le résultat de la multiplication de 7 par 3 est 21."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 3 ?",
+    "Oui, 7 fois 3 fait 21."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 3, ça fait combien ?",
+    "7 multiplié par 3 fait 21."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 3 ?",
+    "Le résultat de la soustraction de 7 par 3 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 3 ?",
+    "7 moins 3 est égal à 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 4 ?",
+    "La somme de 7 et 4 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 4, ça donne combien ?",
+    "Si vous ajoutez 7 à 4, cela donne 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 4 pour moi ?",
+    "Bien sûr! La somme de 7 et 4 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 4 ?",
+    "Oui, la somme de 7 et 4 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 4 ?",
+    "Le résultat de la multiplication de 7 par 4 est 28."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 4 ?",
+    "Oui, 7 fois 4 fait 28."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 4, ça fait combien ?",
+    "7 multiplié par 4 fait 28."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 4 ?",
+    "Le résultat de la soustraction de 7 par 4 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 4 ?",
+    "7 moins 4 est égal à 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 5 ?",
+    "La somme de 7 et 5 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 5, ça donne combien ?",
+    "Si vous ajoutez 7 à 5, cela donne 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 5 pour moi ?",
+    "Bien sûr! La somme de 7 et 5 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 5 ?",
+    "Oui, la somme de 7 et 5 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 5 ?",
+    "Le résultat de la multiplication de 7 par 5 est 35."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 5 ?",
+    "Oui, 7 fois 5 fait 35."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 5, ça fait combien ?",
+    "7 multiplié par 5 fait 35."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 5 ?",
+    "Le résultat de la soustraction de 7 par 5 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 5 ?",
+    "7 moins 5 est égal à 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 6 ?",
+    "La somme de 7 et 6 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 6, ça donne combien ?",
+    "Si vous ajoutez 7 à 6, cela donne 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 6 pour moi ?",
+    "Bien sûr! La somme de 7 et 6 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 6 ?",
+    "Oui, la somme de 7 et 6 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 6 ?",
+    "Le résultat de la multiplication de 7 par 6 est 42."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 6 ?",
+    "Oui, 7 fois 6 fait 42."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 6, ça fait combien ?",
+    "7 multiplié par 6 fait 42."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 6 ?",
+    "Le résultat de la soustraction de 7 par 6 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 6 ?",
+    "7 moins 6 est égal à 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 7 ?",
+    "La somme de 7 et 7 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 7, ça donne combien ?",
+    "Si vous ajoutez 7 à 7, cela donne 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 7 pour moi ?",
+    "Bien sûr! La somme de 7 et 7 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 7 ?",
+    "Oui, la somme de 7 et 7 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 7 ?",
+    "Le résultat de la multiplication de 7 par 7 est 49."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 7 ?",
+    "Oui, 7 fois 7 fait 49."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 7, ça fait combien ?",
+    "7 multiplié par 7 fait 49."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 7 ?",
+    "Le résultat de la soustraction de 7 par 7 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 7 ?",
+    "7 moins 7 est égal à 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 8 ?",
+    "La somme de 7 et 8 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 8, ça donne combien ?",
+    "Si vous ajoutez 7 à 8, cela donne 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 8 pour moi ?",
+    "Bien sûr! La somme de 7 et 8 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 8 ?",
+    "Oui, la somme de 7 et 8 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 8 ?",
+    "Le résultat de la multiplication de 7 par 8 est 56."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 8 ?",
+    "Oui, 7 fois 8 fait 56."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 8, ça fait combien ?",
+    "7 multiplié par 8 fait 56."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 8 ?",
+    "Le résultat de la soustraction de 7 par 8 est -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 8 ?",
+    "7 moins 8 est égal à -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 7 et 9 ?",
+    "La somme de 7 et 9 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 7 à 9, ça donne combien ?",
+    "Si vous ajoutez 7 à 9, cela donne 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 7 + 9 pour moi ?",
+    "Bien sûr! La somme de 7 et 9 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 plus 9 ?",
+    "Oui, la somme de 7 et 9 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 7 par 9 ?",
+    "Le résultat de la multiplication de 7 par 9 est 63."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 7 fois 9 ?",
+    "Oui, 7 fois 9 fait 63."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "7 multiplié par 9, ça fait combien ?",
+    "7 multiplié par 9 fait 63."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 7 par 9 ?",
+    "Le résultat de la soustraction de 7 par 9 est -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 7 moins 9 ?",
+    "7 moins 9 est égal à -2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 0 ?",
+    "La somme de 8 et 0 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 0, ça donne combien ?",
+    "Si vous ajoutez 8 à 0, cela donne 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 0 pour moi ?",
+    "Bien sûr! La somme de 8 et 0 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 0 ?",
+    "Oui, la somme de 8 et 0 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 0 ?",
+    "Le résultat de la multiplication de 8 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 0 ?",
+    "Oui, 8 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 0, ça fait combien ?",
+    "8 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 0 ?",
+    "Le résultat de la soustraction de 8 par 0 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 0 ?",
+    "8 moins 0 est égal à 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 1 ?",
+    "La somme de 8 et 1 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 1, ça donne combien ?",
+    "Si vous ajoutez 8 à 1, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 1 pour moi ?",
+    "Bien sûr! La somme de 8 et 1 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 1 ?",
+    "Oui, la somme de 8 et 1 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 1 ?",
+    "Le résultat de la multiplication de 8 par 1 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 1 ?",
+    "Oui, 8 fois 1 fait 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 1, ça fait combien ?",
+    "8 multiplié par 1 fait 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 1 ?",
+    "Le résultat de la soustraction de 8 par 1 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 1 ?",
+    "8 moins 1 est égal à 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 2 ?",
+    "La somme de 8 et 2 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 2, ça donne combien ?",
+    "Si vous ajoutez 8 à 2, cela donne 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 2 pour moi ?",
+    "Bien sûr! La somme de 8 et 2 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 2 ?",
+    "Oui, la somme de 8 et 2 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 2 ?",
+    "Le résultat de la multiplication de 8 par 2 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 2 ?",
+    "Oui, 8 fois 2 fait 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 2, ça fait combien ?",
+    "8 multiplié par 2 fait 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 2 ?",
+    "Le résultat de la soustraction de 8 par 2 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 2 ?",
+    "8 moins 2 est égal à 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 3 ?",
+    "La somme de 8 et 3 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 3, ça donne combien ?",
+    "Si vous ajoutez 8 à 3, cela donne 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 3 pour moi ?",
+    "Bien sûr! La somme de 8 et 3 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 3 ?",
+    "Oui, la somme de 8 et 3 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 3 ?",
+    "Le résultat de la multiplication de 8 par 3 est 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 3 ?",
+    "Oui, 8 fois 3 fait 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 3, ça fait combien ?",
+    "8 multiplié par 3 fait 24."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 3 ?",
+    "Le résultat de la soustraction de 8 par 3 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 3 ?",
+    "8 moins 3 est égal à 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 4 ?",
+    "La somme de 8 et 4 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 4, ça donne combien ?",
+    "Si vous ajoutez 8 à 4, cela donne 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 4 pour moi ?",
+    "Bien sûr! La somme de 8 et 4 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 4 ?",
+    "Oui, la somme de 8 et 4 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 4 ?",
+    "Le résultat de la multiplication de 8 par 4 est 32."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 4 ?",
+    "Oui, 8 fois 4 fait 32."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 4, ça fait combien ?",
+    "8 multiplié par 4 fait 32."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 4 ?",
+    "Le résultat de la soustraction de 8 par 4 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 4 ?",
+    "8 moins 4 est égal à 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 5 ?",
+    "La somme de 8 et 5 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 5, ça donne combien ?",
+    "Si vous ajoutez 8 à 5, cela donne 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 5 pour moi ?",
+    "Bien sûr! La somme de 8 et 5 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 5 ?",
+    "Oui, la somme de 8 et 5 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 5 ?",
+    "Le résultat de la multiplication de 8 par 5 est 40."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 5 ?",
+    "Oui, 8 fois 5 fait 40."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 5, ça fait combien ?",
+    "8 multiplié par 5 fait 40."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 5 ?",
+    "Le résultat de la soustraction de 8 par 5 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 5 ?",
+    "8 moins 5 est égal à 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 6 ?",
+    "La somme de 8 et 6 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 6, ça donne combien ?",
+    "Si vous ajoutez 8 à 6, cela donne 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 6 pour moi ?",
+    "Bien sûr! La somme de 8 et 6 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 6 ?",
+    "Oui, la somme de 8 et 6 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 6 ?",
+    "Le résultat de la multiplication de 8 par 6 est 48."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 6 ?",
+    "Oui, 8 fois 6 fait 48."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 6, ça fait combien ?",
+    "8 multiplié par 6 fait 48."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 6 ?",
+    "Le résultat de la soustraction de 8 par 6 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 6 ?",
+    "8 moins 6 est égal à 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 7 ?",
+    "La somme de 8 et 7 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 7, ça donne combien ?",
+    "Si vous ajoutez 8 à 7, cela donne 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 7 pour moi ?",
+    "Bien sûr! La somme de 8 et 7 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 7 ?",
+    "Oui, la somme de 8 et 7 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 7 ?",
+    "Le résultat de la multiplication de 8 par 7 est 56."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 7 ?",
+    "Oui, 8 fois 7 fait 56."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 7, ça fait combien ?",
+    "8 multiplié par 7 fait 56."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 7 ?",
+    "Le résultat de la soustraction de 8 par 7 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 7 ?",
+    "8 moins 7 est égal à 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 8 ?",
+    "La somme de 8 et 8 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 8, ça donne combien ?",
+    "Si vous ajoutez 8 à 8, cela donne 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 8 pour moi ?",
+    "Bien sûr! La somme de 8 et 8 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 8 ?",
+    "Oui, la somme de 8 et 8 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 8 ?",
+    "Le résultat de la multiplication de 8 par 8 est 64."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 8 ?",
+    "Oui, 8 fois 8 fait 64."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 8, ça fait combien ?",
+    "8 multiplié par 8 fait 64."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 8 ?",
+    "Le résultat de la soustraction de 8 par 8 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 8 ?",
+    "8 moins 8 est égal à 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 8 et 9 ?",
+    "La somme de 8 et 9 est 17."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 8 à 9, ça donne combien ?",
+    "Si vous ajoutez 8 à 9, cela donne 17."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 8 + 9 pour moi ?",
+    "Bien sûr! La somme de 8 et 9 est 17."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 plus 9 ?",
+    "Oui, la somme de 8 et 9 est 17."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 8 par 9 ?",
+    "Le résultat de la multiplication de 8 par 9 est 72."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 8 fois 9 ?",
+    "Oui, 8 fois 9 fait 72."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "8 multiplié par 9, ça fait combien ?",
+    "8 multiplié par 9 fait 72."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 8 par 9 ?",
+    "Le résultat de la soustraction de 8 par 9 est -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 8 moins 9 ?",
+    "8 moins 9 est égal à -1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 0 ?",
+    "La somme de 9 et 0 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 0, ça donne combien ?",
+    "Si vous ajoutez 9 à 0, cela donne 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 0 pour moi ?",
+    "Bien sûr! La somme de 9 et 0 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 0 ?",
+    "Oui, la somme de 9 et 0 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 0 ?",
+    "Le résultat de la multiplication de 9 par 0 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 0 ?",
+    "Oui, 9 fois 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 0, ça fait combien ?",
+    "9 multiplié par 0 fait 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 0 ?",
+    "Le résultat de la soustraction de 9 par 0 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 0 ?",
+    "9 moins 0 est égal à 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 1 ?",
+    "La somme de 9 et 1 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 1, ça donne combien ?",
+    "Si vous ajoutez 9 à 1, cela donne 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 1 pour moi ?",
+    "Bien sûr! La somme de 9 et 1 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 1 ?",
+    "Oui, la somme de 9 et 1 est 10."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 1 ?",
+    "Le résultat de la multiplication de 9 par 1 est 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 1 ?",
+    "Oui, 9 fois 1 fait 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 1, ça fait combien ?",
+    "9 multiplié par 1 fait 9."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 1 ?",
+    "Le résultat de la soustraction de 9 par 1 est 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 1 ?",
+    "9 moins 1 est égal à 8."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 2 ?",
+    "La somme de 9 et 2 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 2, ça donne combien ?",
+    "Si vous ajoutez 9 à 2, cela donne 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 2 pour moi ?",
+    "Bien sûr! La somme de 9 et 2 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 2 ?",
+    "Oui, la somme de 9 et 2 est 11."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 2 ?",
+    "Le résultat de la multiplication de 9 par 2 est 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 2 ?",
+    "Oui, 9 fois 2 fait 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 2, ça fait combien ?",
+    "9 multiplié par 2 fait 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 2 ?",
+    "Le résultat de la soustraction de 9 par 2 est 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 2 ?",
+    "9 moins 2 est égal à 7."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 3 ?",
+    "La somme de 9 et 3 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 3, ça donne combien ?",
+    "Si vous ajoutez 9 à 3, cela donne 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 3 pour moi ?",
+    "Bien sûr! La somme de 9 et 3 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 3 ?",
+    "Oui, la somme de 9 et 3 est 12."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 3 ?",
+    "Le résultat de la multiplication de 9 par 3 est 27."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 3 ?",
+    "Oui, 9 fois 3 fait 27."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 3, ça fait combien ?",
+    "9 multiplié par 3 fait 27."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 3 ?",
+    "Le résultat de la soustraction de 9 par 3 est 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 3 ?",
+    "9 moins 3 est égal à 6."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 4 ?",
+    "La somme de 9 et 4 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 4, ça donne combien ?",
+    "Si vous ajoutez 9 à 4, cela donne 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 4 pour moi ?",
+    "Bien sûr! La somme de 9 et 4 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 4 ?",
+    "Oui, la somme de 9 et 4 est 13."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 4 ?",
+    "Le résultat de la multiplication de 9 par 4 est 36."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 4 ?",
+    "Oui, 9 fois 4 fait 36."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 4, ça fait combien ?",
+    "9 multiplié par 4 fait 36."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 4 ?",
+    "Le résultat de la soustraction de 9 par 4 est 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 4 ?",
+    "9 moins 4 est égal à 5."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 5 ?",
+    "La somme de 9 et 5 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 5, ça donne combien ?",
+    "Si vous ajoutez 9 à 5, cela donne 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 5 pour moi ?",
+    "Bien sûr! La somme de 9 et 5 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 5 ?",
+    "Oui, la somme de 9 et 5 est 14."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 5 ?",
+    "Le résultat de la multiplication de 9 par 5 est 45."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 5 ?",
+    "Oui, 9 fois 5 fait 45."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 5, ça fait combien ?",
+    "9 multiplié par 5 fait 45."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 5 ?",
+    "Le résultat de la soustraction de 9 par 5 est 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 5 ?",
+    "9 moins 5 est égal à 4."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 6 ?",
+    "La somme de 9 et 6 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 6, ça donne combien ?",
+    "Si vous ajoutez 9 à 6, cela donne 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 6 pour moi ?",
+    "Bien sûr! La somme de 9 et 6 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 6 ?",
+    "Oui, la somme de 9 et 6 est 15."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 6 ?",
+    "Le résultat de la multiplication de 9 par 6 est 54."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 6 ?",
+    "Oui, 9 fois 6 fait 54."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 6, ça fait combien ?",
+    "9 multiplié par 6 fait 54."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 6 ?",
+    "Le résultat de la soustraction de 9 par 6 est 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 6 ?",
+    "9 moins 6 est égal à 3."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 7 ?",
+    "La somme de 9 et 7 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 7, ça donne combien ?",
+    "Si vous ajoutez 9 à 7, cela donne 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 7 pour moi ?",
+    "Bien sûr! La somme de 9 et 7 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 7 ?",
+    "Oui, la somme de 9 et 7 est 16."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 7 ?",
+    "Le résultat de la multiplication de 9 par 7 est 63."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 7 ?",
+    "Oui, 9 fois 7 fait 63."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 7, ça fait combien ?",
+    "9 multiplié par 7 fait 63."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 7 ?",
+    "Le résultat de la soustraction de 9 par 7 est 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 7 ?",
+    "9 moins 7 est égal à 2."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 8 ?",
+    "La somme de 9 et 8 est 17."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 8, ça donne combien ?",
+    "Si vous ajoutez 9 à 8, cela donne 17."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 8 pour moi ?",
+    "Bien sûr! La somme de 9 et 8 est 17."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 8 ?",
+    "Oui, la somme de 9 et 8 est 17."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 8 ?",
+    "Le résultat de la multiplication de 9 par 8 est 72."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 8 ?",
+    "Oui, 9 fois 8 fait 72."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 8, ça fait combien ?",
+    "9 multiplié par 8 fait 72."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 8 ?",
+    "Le résultat de la soustraction de 9 par 8 est 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 8 ?",
+    "9 moins 8 est égal à 1."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quelle est la somme de 9 et 9 ?",
+    "La somme de 9 et 9 est 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Si j'ajoute 9 à 9, ça donne combien ?",
+    "Si vous ajoutez 9 à 9, cela donne 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous calculer 9 + 9 pour moi ?",
+    "Bien sûr! La somme de 9 et 9 est 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 plus 9 ?",
+    "Oui, la somme de 9 et 9 est 18."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la multiplication de 9 par 9 ?",
+    "Le résultat de la multiplication de 9 par 9 est 81."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Pouvez-vous me dire combien font 9 fois 9 ?",
+    "Oui, 9 fois 9 fait 81."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "9 multiplié par 9, ça fait combien ?",
+    "9 multiplié par 9 fait 81."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Quel est le résultat de la soustraction de 9 par 9 ?",
+    "Le résultat de la soustraction de 9 par 9 est 0."
+  ],
+  [
+    "Avez-vous besoin de quelque chose en particulier?",
+    "Combien est égal à 9 moins 9 ?",
+    "9 moins 9 est égal à 0."
+  ]
+]
